@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  TestSiriLocalization
+
+  Created by Bin Zhang on 29/12/20.
+  
+*/
+
+"response" = "Test Response Japanese";
