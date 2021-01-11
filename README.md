@@ -40,4 +40,4 @@ iPhone SE2 (iOS 14.3)
 7. Invoke Siri with the same custom phrase.
 
 # Demo Video
-![Demo Video](https://github.com/eternityz/SiriLocalizationIssue/blob/main/RPReplay_Final1609223782.MP4?raw=true)
+[Demo Video](https://github.com/eternityz/SiriLocalizationIssue/blob/main/RPReplay_Final1609223782.MP4?raw=true)
